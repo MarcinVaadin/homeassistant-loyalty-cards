@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Loyalty Cards",
+        "description": "This integration adds a sidebar panel for managing your loyalty cards."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Loyalty Cards is already configured."
+    }
+  }
+}

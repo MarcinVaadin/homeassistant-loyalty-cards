@@ -1,0 +1,13 @@
+{
+  "domain": "loyalty_cards",
+  "name": "Loyalty Cards",
+  "version": "1.0.0",
+  "documentation": "https://github.com/marcinvaadin/homeassistant-loyalty-cards",
+  "issue_tracker": "https://github.com/marcinvaadin/homeassistant-loyalty-cards/issues",
+  "codeowners": ["@marcinvaadin"],
+  "config_flow": true,
+  "dependencies": ["http", "frontend", "panel_custom"],
+  "requirements": [],
+  "iot_class": "local_push",
+  "integration_type": "service"
+}
